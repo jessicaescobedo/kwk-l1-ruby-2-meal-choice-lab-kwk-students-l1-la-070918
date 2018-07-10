@@ -2,7 +2,7 @@
 def breakfast(food="frosted_flakes")
   puts"In the morning, I eat #{food}."
 end
-breakfast("nails")
+breakfast
 
 def lunch(food="grilled_cheese")
   puts"Lunch is the best time for #{food}."
